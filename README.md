@@ -1,3 +1,3 @@
 # zyad's-cv-website
 
-https://zyadhousam1.github.io/cvfinal/
+https://zyad-abdelhafiz.github.io/zyad-s-cv-website/
