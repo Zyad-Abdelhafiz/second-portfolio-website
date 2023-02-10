@@ -1,3 +1,3 @@
-# portfolio-website
+# second-portfolio-website
 
-https://zyad-abdelhafiz.github.io/portfolio-website/
+https://zyad-abdelhafiz.github.io/second-portfolio-website/
