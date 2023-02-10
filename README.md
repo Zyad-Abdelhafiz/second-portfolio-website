@@ -1,3 +1,3 @@
-# zyad's-cv-website
+#portfolio-website
 
-https://zyad-abdelhafiz.github.io/zyad-s-cv-website/
+https://zyad-abdelhafiz.github.io/portfolio-website/
